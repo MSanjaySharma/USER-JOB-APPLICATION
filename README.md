@@ -1,6 +1,6 @@
 # USER JOB APPLICATION
 
-A React front-end app for submission job application form and review of the application by employer.
+A front-end app for submission job application form and review of the application by employer.
 
 ### 🛠 Tech Stack - (MERN)
 
