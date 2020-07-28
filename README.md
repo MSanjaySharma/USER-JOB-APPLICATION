@@ -7,7 +7,7 @@ A front-end app for submission job application form and review of the applicatio
 - 💻 JavaScript | ES6
 - 🌐 ReactJS
 - 🔧 Git | Markdown
-- 📦 [Material-UI](https://github.com/mui-org/material-ui), [react-router-dom](https://www.npmjs.com/package/react-router-dom), [axios](https://www.npmjs.com/package/axios), [Formik](https://github.com/formium/formik), [yup](https://github.com/jquense/yup), [moment](https://momentjs.com/), [fast-sort](https://www.npmjs.com/package/fast-sort)
+- 📦 [Material-UI](https://github.com/mui-org/material-ui), [react-router-dom](https://www.npmjs.com/package/react-router-dom), [axios](https://www.npmjs.com/package/axios), [Formik](https://github.com/formium/formik), [yup](https://github.com/jquense/yup), [moment.js](https://momentjs.com/), [fast-sort](https://www.npmjs.com/package/fast-sort)
 
 ---
 
